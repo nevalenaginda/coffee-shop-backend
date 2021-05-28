@@ -66,7 +66,7 @@ Coffee Shop is a food ordering service application that gives customers complete
 1. Clone the repository
 
 ```
-git clone https://github.com/bohdan-28/coffee-shop-backend.git
+git clone https://github.com/nevalenaginda/coffee-shop-backend.git
 cd coffee-shop-backend
 ```
 
